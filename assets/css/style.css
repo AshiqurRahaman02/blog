@@ -646,6 +646,7 @@ body.nav-active { overflow: hidden; }
   background-color: var(--bg-oxford-blue-2);
   border-radius: var(--radius-circle);
   z-index: -1;
+  visibility: hidden;
 }
 
 .feature .btn {
