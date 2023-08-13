@@ -881,7 +881,8 @@ body.nav-active { overflow: hidden; }
   margin-block-end: 30px;
 }
 
-.footer-list ul { columns: 2; }
+.footer-list ul { columns: 1;}
+.footer-list ul>li { margin: 10px 0px;}
 
 .footer-link { margin-block-end: 12px; }
 
